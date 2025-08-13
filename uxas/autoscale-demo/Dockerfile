@@ -1,1 +1,1 @@
-FROM docker.io/uxas/autoscale-demo:v0.1.2
+FROM docker.io/luxas/autoscale-demo:v0.1.2
